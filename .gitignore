@@ -181,3 +181,6 @@ UpgradeLog*.htm
 
 # Microsoft Fakes
 FakesAssemblies/
+
+ChatExchange.Net.Packager/*.bak
+ChatExchange.Net.Packager/lib/*
